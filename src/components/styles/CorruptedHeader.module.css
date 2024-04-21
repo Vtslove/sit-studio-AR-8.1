@@ -17,6 +17,7 @@
   display: inline-block;
   min-width: 82px;
   cursor: pointer;
+  top: 3px;
 }
 .navbar,
 .navbarTesting {
